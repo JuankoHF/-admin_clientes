@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen",
+      "empresa": "cubita",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "Karen desea una REST API, nueva",
+      "id": 2
+    },
+    {
+      "nombre": "Miguel",
+      "empresa": "Cuba Badajoz",
+      "email": "miguel@juan.com",
+      "telefono": 319381983,
+      "id": 4
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Juan Antonio Hernández Fernández ",
+      "empresa": "Cuba Badajoz",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "este cliente es TOOP",
+      "id": 7
+    }
+  ]
+}

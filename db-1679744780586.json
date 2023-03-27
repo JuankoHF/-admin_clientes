@@ -1,0 +1,122 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan (Actualizado)",
+      "empresa": "Codigo Con Juan",
+      "email": "juan@juan.com",
+      "telefono": "102013313",
+      "notas": "Nueva Nota",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "cubita",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "Karen desea una REST API, nueva",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "sofia",
+      "empresa": "mia",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "",
+      "id": 6
+    },
+    {
+      "nombre": "migue",
+      "empresa": "",
+      "email": "migue@impt.com",
+      "telefono": "5623144889",
+      "notas": "nueva nota migue",
+      "id": 7
+    },
+    {
+      "nombre": "PERE",
+      "empresa": "mia",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "actualizar nota, algo ma",
+      "id": 8
+    },
+    {
+      "nombre": "Juan Antonio Hernández ",
+      "empresa": "cuba max",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "a ver si se guarda la nota",
+      "id": 9
+    },
+    {
+      "nombre": "PERE",
+      "empresa": "mia",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "probando . nueva nota ",
+      "id": 10
+    },
+    {
+      "nombre": "Periquito perwz",
+      "empresa": "",
+      "email": "",
+      "telefono": "",
+      "notas": "por completar",
+      "id": 11
+    },
+    {
+      "nombre": "diego",
+      "empresa": "",
+      "email": "",
+      "telefono": "",
+      "notas": "",
+      "id": 12
+    },
+    {
+      "nombre": "PERE2",
+      "empresa": "cubita",
+      "email": "pecerer@mio.com",
+      "telefono": "626708613",
+      "notas": "el hijo del bestia",
+      "id": 13
+    },
+    {
+      "nombre": "periquito perdex",
+      "empresa": "cqas",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "veqrtrq",
+      "id": 14
+    },
+    {
+      "nombre": "periquito editado",
+      "empresa": "cqas",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "veqrtrq",
+      "id": 15
+    },
+    {
+      "nombre": "JUAN 3",
+      "empresa": "cuba max12",
+      "email": "herferjuan9003@gmail.com",
+      "telefono": "626708613",
+      "notas": "cqce",
+      "id": 16
+    }
+  ]
+}
